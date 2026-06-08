@@ -26,3 +26,8 @@ To analyze procurement spending, vendor performance, order status, and subsystem
 2) Vendor dependency is visible across major purchase categories.
 3) A significant share of orders remains pending, requiring follow-up.
 
+## Dashboard Preview
+![subsystem](dashboard1.png)
+![all data](dashboard2.png)
+![sheet](dashboard3.png)
+![pivot data](dashboard4.png)
